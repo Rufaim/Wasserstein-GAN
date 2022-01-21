@@ -5,14 +5,14 @@ In this implementation requred 1-Lipshitz constraint is smoothly enforced using 
 
 Note: see those [notes](https://arxiv.org/pdf/1801.04406.pdf) on convergence of Wasserstein GAN.
 
-<table style="margin: auto; width: 100%">
-    <tr style="border: none">
-        <td style="border: none"><img src="gifs/gan.gif"></td>
-        <td style="border: none"><img src="gifs/wgan.gif"></td>
+<table>
+    <tr>
+        <td><img src="gifs/gan.gif"></td>
+        <td><img src="gifs/wgan.gif"></td>
     </tr>
-    <tr style="border: none">
-        <td style="text-align: center ; border: none"><b>GAN</b></td>
-        <td style="text-align: center ; border: none"><b>WGAN</b></td>
+    <tr>
+        <td align="center"><b>GAN</b></td>
+        <td align="center"><b>WGAN</b></td>
     </tr>
 </table>
 
