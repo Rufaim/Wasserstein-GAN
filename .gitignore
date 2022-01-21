@@ -1,0 +1,8 @@
+# Results
+*.png
+
+# Python precompiled
+*.pyc
+
+# pycharm
+.idea
